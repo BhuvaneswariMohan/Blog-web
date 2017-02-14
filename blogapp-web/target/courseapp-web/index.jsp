@@ -1,5 +1,7 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h3>Welcome to blog
+</h3> 
+<a href="register.jsp">Register/Login</a>
 </body>
 </html>

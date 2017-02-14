@@ -1,4 +1,5 @@
 com\naresh\Application.class
-com\naresh\controller\CourseController.class
+com\naresh\controller\HomeController.class
+com\naresh\controller\ArticlesController.class
 com\naresh\controller\AuthorDetailsController.class
 com\naresh\model\Course.class
